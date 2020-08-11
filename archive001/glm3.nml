@@ -54,7 +54,7 @@
    timezone = -6
 /
 &output
-   out_dir = 'output'
+   out_dir = '.'
    out_fn = 'output'
    nsave = 1
    csv_lake_fname = 'lake'
